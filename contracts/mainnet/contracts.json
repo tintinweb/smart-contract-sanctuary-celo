@@ -1525,3 +1525,4 @@
 {"address": "0x7d21685c17607338b313a7174bab6620bad0aab7", "name": "AccountsProxy", "compiler": "Solidity", "balance": "1.000 CELO", "txcount": "8389", "settings": "", "date": "04/22/2020"}
 {"address": "0x0a5c1108d016b2486433cd838450c9ef932e03d5", "name": "Smiles", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/24/2021", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x0a5c1108d016b2486433cd838450c9ef932e03d5", "name": "Smiles", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/24/2021", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x8c76bc8b993b671a14ef598705ddaee244c3a633", "name": "GoodGhosting", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "410", "settings": "", "date": "06/28/2022"}
