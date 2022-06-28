@@ -1526,3 +1526,7 @@
 {"address": "0x0a5c1108d016b2486433cd838450c9ef932e03d5", "name": "Smiles", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/24/2021", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x0a5c1108d016b2486433cd838450c9ef932e03d5", "name": "Smiles", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/24/2021", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x8c76bc8b993b671a14ef598705ddaee244c3a633", "name": "GoodGhosting", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "410", "settings": "", "date": "06/28/2022"}
+{"address": "0xf2ca11da5c3668dd48774f3ce8ac09afdc24af3e", "name": "ImpactMarketCouncilProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/28/2022"}
+{"address": "0x3d150b0f44dae282d4e5751dd7b8abe297cd0d49", "name": "AmbassadorsImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/28/2022"}
+{"address": "0x25f58d8c2522dc7e0c53cf8163c837de2415ba51", "name": "AmbassadorsProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/28/2022"}
+{"address": "0x70d0812c8c9eda12782cc340aa89c19d5cd53c32", "name": "NoExternalStrategy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/28/2022"}
