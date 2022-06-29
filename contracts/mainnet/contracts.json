@@ -1530,3 +1530,12 @@
 {"address": "0x3d150b0f44dae282d4e5751dd7b8abe297cd0d49", "name": "AmbassadorsImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/28/2022"}
 {"address": "0x25f58d8c2522dc7e0c53cf8163c837de2415ba51", "name": "AmbassadorsProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/28/2022"}
 {"address": "0x70d0812c8c9eda12782cc340aa89c19d5cd53c32", "name": "NoExternalStrategy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/28/2022"}
+{"address": "0xacd0ad376c5426abf0f81353c227d7512340cb43", "name": "Manager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0x25b7f372d51e785826fb294f9458892af5bb807f", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0x05483de7fe073ddb6f1dddd7661d4136af8af99a", "name": "ImpactMarketCouncilImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0xb59b1c36e4466f19c84dd2aeccace718b32c4b61", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0x9122855efe96f0f53eda66602ebea000733ddcfc", "name": "StakedCelo", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0xad3df8fc103fd3d91d963dc719d059df2918d52e", "name": "Account", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0x52bb5091b2e2319300b4db33b63d715c89a195c0", "name": "RebasedStakedCelo", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0x6bbd91b458b5f687e1090966925867b956ae298d", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0x13f9a9af3a51c4a495f76beb795fcb1f8febe6fb", "name": "UniswapRepayAdapter", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/28/2022"}
