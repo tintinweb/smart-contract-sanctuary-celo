@@ -1539,3 +1539,8 @@
 {"address": "0x52bb5091b2e2319300b4db33b63d715c89a195c0", "name": "RebasedStakedCelo", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
 {"address": "0x6bbd91b458b5f687e1090966925867b956ae298d", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
 {"address": "0x13f9a9af3a51c4a495f76beb795fcb1f8febe6fb", "name": "UniswapRepayAdapter", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/28/2022"}
+{"address": "0xe57f6f8620fce79c723ed9da69f7e3dd7c07c0c4", "name": "MultiSig", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/30/2022"}
+{"address": "0x88d1ae61a25c73e2adffd7b3b58477f42cd48c24", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/30/2022"}
+{"address": "0x4d5ad15035344e1546044491cc52c609b7df1a87", "name": "SwapExecutor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/30/2022"}
+{"address": "0xf9366dcffb3d685f64314c24604ff16965a9221d", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
+{"address": "0xd2a3a525f3784552f2220984187a391d0c1c8a16", "name": "AaveStrategy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
