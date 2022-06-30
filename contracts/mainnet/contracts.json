@@ -1544,3 +1544,7 @@
 {"address": "0x4d5ad15035344e1546044491cc52c609b7df1a87", "name": "SwapExecutor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/30/2022"}
 {"address": "0xf9366dcffb3d685f64314c24604ff16965a9221d", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
 {"address": "0xd2a3a525f3784552f2220984187a391d0c1c8a16", "name": "AaveStrategy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
+{"address": "0x1c456309f89b1bc5929b94ec97484ac87f7ee160", "name": "UniswapLiquiditySwapAdapter", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/30/2022"}
+{"address": "0x87f1e00d6bcd3712031e5edd26dfcdb0fed35d20", "name": "TegistoSaleRound1", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/30/2022"}
+{"address": "0xf9366dcffb3d685f64314c24604ff16965a9221d", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0xd2a3a525f3784552f2220984187a391d0c1c8a16", "name": "AaveStrategy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
