@@ -1548,3 +1548,5 @@
 {"address": "0x87f1e00d6bcd3712031e5edd26dfcdb0fed35d20", "name": "TegistoSaleRound1", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/30/2022"}
 {"address": "0xf9366dcffb3d685f64314c24604ff16965a9221d", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
 {"address": "0xd2a3a525f3784552f2220984187a391d0c1c8a16", "name": "AaveStrategy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/29/2022"}
+{"address": "0xaeea6d9b3d67ff5f5f19d6ced92ac25199ee985f", "name": "SimpleGovernance", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/01/2022"}
+{"address": "0xf0ee62005149b008bd3991edfea2cad5eae592aa", "name": "GovernedOwnerProxy", "compiler": "Solidity", "balance": "0 CELO", "txcount": "0", "settings": "", "date": "07/01/2022"}
