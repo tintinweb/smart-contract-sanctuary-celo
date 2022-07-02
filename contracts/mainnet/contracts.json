@@ -1576,3 +1576,6 @@
 {"address": "0xc667602b4067a759908cd747706f55c77779face", "name": "Account", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/01/2022"}
 {"address": "0x2e1193a4219c5539f8bd5fd1c6e765158caf278c", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/01/2022"}
 {"address": "0x4791e7ec9b1668988a194fed971d9b02c4add5cb", "name": "CommunityAdminImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/02/2022"}
+{"address": "0xc00210f3dd9618d205cc642a4d1ad7bdc3a34a6a", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/02/2022"}
+{"address": "0xdc5762753043327d74e0a538199c1488fc1f44cf", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/02/2022"}
+{"address": "0xc668583dcbdc9ae6fa3ce46462758188adfdfc24", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/02/2022"}
