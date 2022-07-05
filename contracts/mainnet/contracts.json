@@ -1580,3 +1580,4 @@
 {"address": "0xdc5762753043327d74e0a538199c1488fc1f44cf", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/02/2022"}
 {"address": "0xc668583dcbdc9ae6fa3ce46462758188adfdfc24", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/02/2022"}
 {"address": "0xf03928ddc5e5fa43c7f0cc94ab5adb76d25c79a6", "name": "GovernedOwnerProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/04/2022"}
+{"address": "0xf380166f8490f24af32bf47d1aa217fba62b6575", "name": "SimpleGovernance", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
