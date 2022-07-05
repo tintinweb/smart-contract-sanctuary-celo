@@ -1581,3 +1581,7 @@
 {"address": "0xc668583dcbdc9ae6fa3ce46462758188adfdfc24", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/02/2022"}
 {"address": "0xf03928ddc5e5fa43c7f0cc94ab5adb76d25c79a6", "name": "GovernedOwnerProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/04/2022"}
 {"address": "0xf380166f8490f24af32bf47d1aa217fba62b6575", "name": "SimpleGovernance", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
+{"address": "0x37d6b1216babbcf37921d787373eaea2acdb5703", "name": "ProtocolFeesCollector", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
+{"address": "0x7670ea8a307fce474c90a1b699fea4d116212ec8", "name": "AccessManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
+{"address": "0xc918ed6d45ae9bdbe1cec42a8a32f2e036a35c93", "name": "ERC20NFTBond", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
+{"address": "0x0f497a790429685a3cfd43b841865ee185378ff0", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
