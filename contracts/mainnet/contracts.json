@@ -1586,3 +1586,4 @@
 {"address": "0xc918ed6d45ae9bdbe1cec42a8a32f2e036a35c93", "name": "ERC20NFTBond", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
 {"address": "0x0f497a790429685a3cfd43b841865ee185378ff0", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
 {"address": "0xc4967dae0d148c604ea318aabcdadf5dffbe5aae", "name": "UniswapRepayAdapterWithPath", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
+{"address": "0xc96c78e46169cb854dc793437a105f46f2435455", "name": "UniswapRepayAdapter", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/06/2022"}
