@@ -1587,3 +1587,6 @@
 {"address": "0x0f497a790429685a3cfd43b841865ee185378ff0", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
 {"address": "0xc4967dae0d148c604ea318aabcdadf5dffbe5aae", "name": "UniswapRepayAdapterWithPath", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/05/2022"}
 {"address": "0xc96c78e46169cb854dc793437a105f46f2435455", "name": "UniswapRepayAdapter", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/06/2022"}
+{"address": "0xe8037e4ceed80ec6d02f482a5a35e0011245fcdc", "name": "CommunityMiddleProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
+{"address": "0xef8afcaa8402eeb7baa7993c0a587185d65a6f55", "name": "SwapRouter02", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
+{"address": "0x1c92b2eaea7c53ac08a7b77151c2f0734b8e35b1", "name": "UniswapLiquiditySwapAdapterSinglePair", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
