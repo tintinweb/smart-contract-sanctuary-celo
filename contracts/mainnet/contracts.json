@@ -1601,3 +1601,7 @@
 {"address": "0x633987602de5c4f337e3dbf265303a1080324204", "name": "UniswapInterfaceMulticall", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
 {"address": "0x3cfd4d48edfdcc53d3f173f596f621064614c582", "name": "V3Migrator", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
 {"address": "0x5615cdab10dc425a742d643d949a7f474c01abc4", "name": "SwapRouter02", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
+{"address": "0xa9fd765d85938d278cb0b108dbe4bf7186831186", "name": "NFTDescriptor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022"}
+{"address": "0x3e7898c98e44bb734f43c60c782e8e7ee8854706", "name": "CyberBoxCertMinterV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022"}
+{"address": "0x76ede748dbaa8ee3504237ad796f922c0f704ff7", "name": "CyberBoxCertMinterV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
+{"address": "0xfc39d3f2cbe4d5efc21ce48047bb2511aca5caf3", "name": "SPACTToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "07/08/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
