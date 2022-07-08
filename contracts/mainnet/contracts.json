@@ -1593,3 +1593,11 @@
 {"address": "0x57917d25f578915993dd38d685ea8c0d53d7869b", "name": "ComplexRewarder", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
 {"address": "0x024bab3928cbaf1980344f2b59af4b731ac3b5c1", "name": "ComplexRewarder", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
 {"address": "0xa14b1d7e28c4f9518eb7757ddee35a18423e1567", "name": "ERC20Reserve", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "07/07/2022"}
+{"address": "0xf666d879e0480f0dd9f64d3c31abd9f89ffa85c9", "name": "SpiralsStaking", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022"}
+{"address": "0xafe208a311b21f13ef87e33a90049fc17a7acdec", "name": "UniswapV3Factory", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
+{"address": "0x3d79edaabc0eab6f08ed885c05fc0b014290d95a", "name": "NonfungiblePositionManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
+{"address": "0x82825d0554fa07f7fc52ab63c961f330fdefa8e8", "name": "QuoterV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
+{"address": "0x5f115d9113f88e0a0db1b5033d90d4a9690acd3d", "name": "TickLens", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
+{"address": "0x633987602de5c4f337e3dbf265303a1080324204", "name": "UniswapInterfaceMulticall", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
+{"address": "0x3cfd4d48edfdcc53d3f173f596f621064614c582", "name": "V3Migrator", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
+{"address": "0x5615cdab10dc425a742d643d949a7f474c01abc4", "name": "SwapRouter02", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/07/2022"}
