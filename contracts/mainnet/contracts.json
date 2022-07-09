@@ -1605,3 +1605,9 @@
 {"address": "0x3e7898c98e44bb734f43c60c782e8e7ee8854706", "name": "CyberBoxCertMinterV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022"}
 {"address": "0x76ede748dbaa8ee3504237ad796f922c0f704ff7", "name": "CyberBoxCertMinterV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
 {"address": "0xfc39d3f2cbe4d5efc21ce48047bb2511aca5caf3", "name": "SPACTToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "07/08/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
+{"address": "0x6390adde3fda14dd90cb0ec4a12bd232d8c0fcec", "name": "KolorLandToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/09/2022"}
+{"address": "0x960bba826ed09a227a3c913351add41e12640b5c", "name": "KolorMarketplace", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/09/2022"}
+{"address": "0x2fe59334e3aa01c024d8b87ddc59067e3455217c", "name": "KolorLandNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/09/2022"}
+{"address": "0x175d9db34c67c15d1a39008cb0ae375fcaba3f92", "name": "MoneyArt", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022"}
+{"address": "0x76ede748dbaa8ee3504237ad796f922c0f704ff7", "name": "CyberBoxCertMinterV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022"}
+{"address": "0xfc39d3f2cbe4d5efc21ce48047bb2511aca5caf3", "name": "SPACTToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "07/08/2022"}
