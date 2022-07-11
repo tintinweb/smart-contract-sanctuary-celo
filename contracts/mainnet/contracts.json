@@ -1614,3 +1614,5 @@
 {"address": "0x644023b316bb65175c347de903b60a756f6dd554", "name": "NonfungibleTokenPositionDescriptor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
 {"address": "0x2779234b0d23818e27a24717f0e579a7ab1f8c55", "name": "SpiralsStaking", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
 {"address": "0xef1ffcc1dacdc314779b41967f854b79393b993a", "name": "CommunityImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
+{"address": "0x6180f059986cf55bb2b46a14b21a7b8f9af999a7", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
+{"address": "0x5214a04e24eaf78010330cd9c290faacc35490a1", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
