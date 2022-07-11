@@ -1611,3 +1611,6 @@
 {"address": "0x175d9db34c67c15d1a39008cb0ae375fcaba3f92", "name": "MoneyArt", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022"}
 {"address": "0x76ede748dbaa8ee3504237ad796f922c0f704ff7", "name": "CyberBoxCertMinterV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/08/2022"}
 {"address": "0xfc39d3f2cbe4d5efc21ce48047bb2511aca5caf3", "name": "SPACTToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "07/08/2022"}
+{"address": "0x644023b316bb65175c347de903b60a756f6dd554", "name": "NonfungibleTokenPositionDescriptor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
+{"address": "0x2779234b0d23818e27a24717f0e579a7ab1f8c55", "name": "SpiralsStaking", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
+{"address": "0xef1ffcc1dacdc314779b41967f854b79393b993a", "name": "CommunityImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
