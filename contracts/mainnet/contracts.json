@@ -1616,3 +1616,16 @@
 {"address": "0xef1ffcc1dacdc314779b41967f854b79393b993a", "name": "CommunityImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
 {"address": "0x6180f059986cf55bb2b46a14b21a7b8f9af999a7", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
 {"address": "0x5214a04e24eaf78010330cd9c290faacc35490a1", "name": "ERC1967Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
+{"address": "0x1905ec0769775179a9b2e042ce0fd59e27fd407c", "name": "StakedETHIX", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/12/2022"}
+{"address": "0x4a594e07d5295e4e4cd1ff728e85a317a20a5010", "name": "UpgradeBeacon", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/12/2022"}
+{"address": "0x72e0ec1fa0c8c25916e4e35b8c2af2a568990204", "name": "UpdaterManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "07/12/2022"}
+{"address": "0x5a4e9b127183130b1814858f6ca5d1b1c6d799ee", "name": "UpgradeBeaconController", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "07/12/2022"}
+{"address": "0x44886e50b19d95cdcb1befa6bfe1761f267e24ae", "name": "XAppConnectionManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "6", "settings": "", "date": "07/12/2022"}
+{"address": "0x8dbce625664e61bd3902ec84de5e22d2b12c3fb6", "name": "GovernanceRouter", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/12/2022"}
+{"address": "0x5ee2ba07742d9276b2f51ee4ad949016b7f164c1", "name": "UpgradeBeaconProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "07/12/2022"}
+{"address": "0x3b07929950357629c7cb353ba298ed092ab51b2e", "name": "Prime", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/12/2022"}
+{"address": "0x9f4116adfd83c30dbaa5146d17d1f5a9a56b1502", "name": "LBPManagerFactory", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "07/12/2022"}
+{"address": "0x4153e3a4902dd74627e77c3de72c072fc770d795", "name": "Badger", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/12/2022"}
+{"address": "0x6586fb35393abf7ff454977a9b3c912d218791c6", "name": "UniswapV3Staker", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
+{"address": "0x505b43c452aa4443e0a6b84bb37771494633fde9", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
+{"address": "0xc1b262dd7643d4b7ca9e51631bbd900a564bf49a", "name": "ProxyAdmin", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
