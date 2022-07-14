@@ -1629,3 +1629,4 @@
 {"address": "0x6586fb35393abf7ff454977a9b3c912d218791c6", "name": "UniswapV3Staker", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
 {"address": "0x505b43c452aa4443e0a6b84bb37771494633fde9", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
 {"address": "0xc1b262dd7643d4b7ca9e51631bbd900a564bf49a", "name": "ProxyAdmin", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
+{"address": "0x764bb9f7232eed556ec36becadf1f783833cf553", "name": "TreasuryImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/27/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
