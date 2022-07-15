@@ -1635,3 +1635,6 @@
 {"address": "0xbf83fc8f572c19aa9601a5ca26e6be036d3ad51e", "name": "ChinosUlti", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
 {"address": "0x9d5039cc978c1c8acb562b15282afa2731dbdb25", "name": "DCA", "compiler": "Solidity", "balance": "1003.000 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
 {"address": "0x4a67a2f4c466fda84e53ee2632e1fc0b77a9c80b", "name": "DCA", "compiler": "Solidity", "balance": "0.050 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
+{"address": "0x3615d545897e8a34bee70b7f18fa6c3d23a7730f", "name": "DCAClaimer", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
+{"address": "0x12fc4507da705e641f657a84eb959e0deb71c384", "name": "Seed", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
+{"address": "0x176a4d54c7be1e20a6a671c48934ec42787f32ea", "name": "SeedFactory", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "3", "settings": "", "date": "07/15/2022"}
