@@ -1631,3 +1631,7 @@
 {"address": "0xc1b262dd7643d4b7ca9e51631bbd900a564bf49a", "name": "ProxyAdmin", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/11/2022"}
 {"address": "0x764bb9f7232eed556ec36becadf1f783833cf553", "name": "TreasuryImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/27/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
 {"address": "0x764bb9f7232eed556ec36becadf1f783833cf553", "name": "TreasuryImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "06/27/2022"}
+{"address": "0xb04bda735f38d65b7498e6ef8b729e7f0943e9fa", "name": "ChinosUlti", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
+{"address": "0xbf83fc8f572c19aa9601a5ca26e6be036d3ad51e", "name": "ChinosUlti", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
+{"address": "0x9d5039cc978c1c8acb562b15282afa2731dbdb25", "name": "DCA", "compiler": "Solidity", "balance": "1003.000 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
+{"address": "0x4a67a2f4c466fda84e53ee2632e1fc0b77a9c80b", "name": "DCA", "compiler": "Solidity", "balance": "0.050 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
