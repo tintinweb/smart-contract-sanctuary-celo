@@ -1638,3 +1638,4 @@
 {"address": "0x3615d545897e8a34bee70b7f18fa6c3d23a7730f", "name": "DCAClaimer", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
 {"address": "0x12fc4507da705e641f657a84eb959e0deb71c384", "name": "Seed", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/15/2022"}
 {"address": "0x176a4d54c7be1e20a6a671c48934ec42787f32ea", "name": "SeedFactory", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "3", "settings": "", "date": "07/15/2022"}
+{"address": "0xfb6b2c8392580ea47a6256adbb0e48a962a67378", "name": "CurveMulticall", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/16/2022"}
