@@ -1642,3 +1642,5 @@
 {"address": "0xb2ccc83310450962780e532b787ecb9859d2001a", "name": "MerkleDistributor", "compiler": "Solidity", "balance": "6.712 CELO", "txcount": "0", "settings": "", "date": "07/17/2022"}
 {"address": "0x6da1a4493c3f84e896ddc086e41dd995e238eed2", "name": "ProxyAdmin", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "07/18/2022"}
 {"address": "0x0e9a30abfa9e5ab7ccff0a369f1033a4f7c5d0b0", "name": "SpiralsStakingV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/18/2022"}
+{"address": "0x6361d05e27a09630eae9e2515b8ee3705eb0f87e", "name": "GoodGhosting", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/19/2022"}
+{"address": "0x57cd73393bb370decc790918a129addd185a6ae0", "name": "GoodGhosting", "compiler": "Solidity", "balance": "0.010 CELO", "txcount": "0", "settings": "", "date": "07/19/2022"}
