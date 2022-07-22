@@ -1650,3 +1650,10 @@
 {"address": "0x3bbbc53a345220f47085825df400db99fcaa7058", "name": "SpiralsStakingV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/19/2022"}
 {"address": "0x41e67a1e6a9016a6b25f97ab5ea6d1a6f73a41ff", "name": "SpiralsStakingV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/20/2022"}
 {"address": "0x0d71bfd795b6ce3d33ad835de488d2f91497a790", "name": "SpiralsStakingV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/20/2022"}
+{"address": "0x3de704dcddd2bd8bf5bd3ebd846e1e393b51a1c6", "name": "Pixpress", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "19", "settings": "", "date": "07/22/2022"}
+{"address": "0xa9699e04a6cbb89ea167a1a67db648caad4bd64e", "name": "Pixpress", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "8", "settings": "", "date": "07/22/2022"}
+{"address": "0x13a458d46f3d16326cb583861cf2659f8100618b", "name": "Pixpress", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "7", "settings": "", "date": "07/22/2022"}
+{"address": "0x23d9de0f7797a93593d006db9d6a1e5ec5c26054", "name": "PxaMarket", "compiler": "Solidity", "balance": "0.100 CELO", "txcount": "20", "settings": "", "date": "07/22/2022"}
+{"address": "0x23faced31c5d1c5cb06778ebe46a29eb4e7106db", "name": "Pixaton", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "07/22/2022"}
+{"address": "0x6ee45cfcf5f47839467791eec5cae8d82310b4d1", "name": "PxtPool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "07/22/2022"}
+{"address": "0x44356bc4a9dd301cb1c5fa6b6a750d70245055f8", "name": "PWS", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/22/2022"}
