@@ -1657,3 +1657,4 @@
 {"address": "0x23faced31c5d1c5cb06778ebe46a29eb4e7106db", "name": "Pixaton", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "07/22/2022"}
 {"address": "0x6ee45cfcf5f47839467791eec5cae8d82310b4d1", "name": "PxtPool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "07/22/2022"}
 {"address": "0x44356bc4a9dd301cb1c5fa6b6a750d70245055f8", "name": "PWS", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/22/2022"}
+{"address": "0x9bdee40be3583679b923340dc3acc0c661ecf045", "name": "SpiralsStakingV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/22/2022"}
