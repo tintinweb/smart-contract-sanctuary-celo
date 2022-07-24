@@ -1659,3 +1659,6 @@
 {"address": "0x44356bc4a9dd301cb1c5fa6b6a750d70245055f8", "name": "PWS", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/22/2022"}
 {"address": "0x9bdee40be3583679b923340dc3acc0c661ecf045", "name": "SpiralsStakingV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/22/2022"}
 {"address": "0x32d15e2e9112302265a26d7e7ac83edc6e64ec4c", "name": "MerkleDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/19/2022"}
+{"address": "0x2607740a4959ed125e27dc9d02f67e5d42a46cb5", "name": "MasterChef", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/24/2022"}
+{"address": "0xb42610844783a7d10b1a6c31ebba186991aada10", "name": "FarmingBar", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/24/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
+{"address": "0xfca3eb5df3d9c7daddb688359e25a9c0e3d8a6b0", "name": "FarmingToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/24/2022"}
