@@ -1667,3 +1667,4 @@
 {"address": "0x267e1fc480415db5a13c55051bf9f92a3c7ed9a2", "name": "CelofarmsBar", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/25/2022"}
 {"address": "0x3617dd643d3991565c6d62b6be44990dd550ae99", "name": "CelofarmsToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/25/2022"}
 {"address": "0x7a9a770227f4c3f069965ec2e8feea8283bacd2a", "name": "MerkleDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/25/2022"}
+{"address": "0x76cad835648edee3d460ba8c48517f6924a6cf4b", "name": "SushiOperator", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/26/2022"}
