@@ -1670,3 +1670,4 @@
 {"address": "0x76cad835648edee3d460ba8c48517f6924a6cf4b", "name": "SushiOperator", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/26/2022"}
 {"address": "0xd734bb58a28aaaacbe5a738398f471b3187b2960", "name": "CyberBoxCertMinterV21", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/27/2022"}
 {"address": "0x3332241a5a4ecb4c28239a9731ad45de7f000333", "name": "RubicProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/27/2022"}
+{"address": "0x4af4237210706a190eae2e192e2bf29fe1da5420", "name": "Sway", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/28/2022"}
