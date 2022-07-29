@@ -1673,3 +1673,5 @@
 {"address": "0x4af4237210706a190eae2e192e2bf29fe1da5420", "name": "Sway", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/28/2022"}
 {"address": "0xa96be5d18cba682b90d502bf2acbc3040a814c3e", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/29/2022"}
 {"address": "0xfb3a0dd0151cfe46cbc3b840aec4c484592c8a34", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/29/2022"}
+{"address": "0x021e5897063e3023f673902c7f6418bbfe55ebd8", "name": "PriceFeed", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/29/2022"}
+{"address": "0x4e1d8229482916f2c59605cb44c4362449bce08b", "name": "PriceAdapter", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/29/2022"}
