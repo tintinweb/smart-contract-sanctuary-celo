@@ -1671,3 +1671,5 @@
 {"address": "0xd734bb58a28aaaacbe5a738398f471b3187b2960", "name": "CyberBoxCertMinterV21", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/27/2022"}
 {"address": "0x3332241a5a4ecb4c28239a9731ad45de7f000333", "name": "RubicProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/27/2022"}
 {"address": "0x4af4237210706a190eae2e192e2bf29fe1da5420", "name": "Sway", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/28/2022"}
+{"address": "0xa96be5d18cba682b90d502bf2acbc3040a814c3e", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/29/2022"}
+{"address": "0xfb3a0dd0151cfe46cbc3b840aec4c484592c8a34", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "07/29/2022"}
