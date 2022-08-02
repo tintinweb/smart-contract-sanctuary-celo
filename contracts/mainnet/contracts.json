@@ -1685,3 +1685,4 @@
 {"address": "0x4ae0c50aa547472808e873f7e60cdad08822a7bf", "name": "UpgradeBeacon", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/02/2022"}
 {"address": "0xf534a8d7b46a811fa635d764b0a8755a59c36a30", "name": "UpgradeBeacon", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/02/2022"}
 {"address": "0x9ec4561d95689fb0e0c37940ca925f60a3d335c3", "name": "CeloWhales", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/02/2022"}
+{"address": "0xa2db2e70a795b566f129ae7dff242a4ad1393b32", "name": "LendingPoolCollateralManagerWithReserve", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/02/2022"}
