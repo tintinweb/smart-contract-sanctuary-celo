@@ -1686,3 +1686,5 @@
 {"address": "0xf534a8d7b46a811fa635d764b0a8755a59c36a30", "name": "UpgradeBeacon", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/02/2022"}
 {"address": "0x9ec4561d95689fb0e0c37940ca925f60a3d335c3", "name": "CeloWhales", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/02/2022"}
 {"address": "0xa2db2e70a795b566f129ae7dff242a4ad1393b32", "name": "LendingPoolCollateralManagerWithReserve", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/02/2022"}
+{"address": "0x6ebc8879ee57334b14a9b1e3a2fde55e172193c6", "name": "CeloWhales", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/02/2022"}
+{"address": "0xf00979c09ac0c2e825d82480272cc91398e57cd6", "name": "OracleWrapper", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "4", "settings": "", "date": "07/23/2022"}
