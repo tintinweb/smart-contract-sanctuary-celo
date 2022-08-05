@@ -1690,3 +1690,15 @@
 {"address": "0xf00979c09ac0c2e825d82480272cc91398e57cd6", "name": "OracleWrapper", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "4", "settings": "", "date": "07/23/2022"}
 {"address": "0xd7a7f93e2005fdb4ff8149dedae0e30a984c9a19", "name": "GoodGhosting", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/02/2022"}
 {"address": "0x55067df868997bad76e831f4bad5b48fbbf4c8d1", "name": "ProxyAdmin", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/03/2022"}
+{"address": "0xb808018e248a0de81e02123341518cbfc79ea292", "name": "FactoryWedding", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0x602a846bb3bc73d4f6708bb27571f28621fb5fcd", "name": "FactoryLastWill", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0xe53bba908f9364814f1c8fbbd064472e29e3e51e", "name": "FactoryLostKey", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0x931db767fd13b3006608f0a66bb733fee0a84a93", "name": "FactorySCBCrowdsale", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0x1cfd9444b52cc5d5f949f44fa1f108dcc2c8cea4", "name": "FactorySCNBCrowdsale", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0x5616365dab96c0c2461938b03f553d32dc5f272f", "name": "FactoryNSCBCrowdsale", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0x095307ec1d3fb984fffc35f347f8a74f93268fb1", "name": "FactoryNSCNBCrowdsale", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0x22b1741be6bf2be1a17d739cbd6321b44f52e905", "name": "Controller", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0x3becf85b148927eb0d47950ba7deba0c01b085e4", "name": "FactoryERC20MF", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0xe68cb2f7f9c0e964e51fe3c24b1013c9500ae42f", "name": "FactoryERC20MNF", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0x06d138af9ac244b60cf14e87e149d4d5fe576f86", "name": "FactoryERC20NMNF", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
+{"address": "0x5a30cbe720a8f34b59b3b78716acc0d8e0ea00bc", "name": "FactoryERC20NMF", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
