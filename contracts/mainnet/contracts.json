@@ -1704,3 +1704,4 @@
 {"address": "0x5a30cbe720a8f34b59b3b78716acc0d8e0ea00bc", "name": "FactoryERC20NMF", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
 {"address": "0xfee23aeb633d20703173e727508cafad6930cb47", "name": "supraVaultV5", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/06/2022"}
 {"address": "0x753a00b7039d57b8b0c34d6777b68230a5d4f05c", "name": "SwapUSDCet", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/06/2022"}
+{"address": "0x073f019b17c00993f161bef7e43a5e575775695b", "name": "Tally", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/07/2022"}
