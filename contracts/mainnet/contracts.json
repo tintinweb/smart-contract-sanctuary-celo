@@ -1705,3 +1705,4 @@
 {"address": "0xfee23aeb633d20703173e727508cafad6930cb47", "name": "supraVaultV5", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/06/2022"}
 {"address": "0x753a00b7039d57b8b0c34d6777b68230a5d4f05c", "name": "SwapUSDCet", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/06/2022"}
 {"address": "0x073f019b17c00993f161bef7e43a5e575775695b", "name": "Tally", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/07/2022"}
+{"address": "0x8d6a8637a66b4524495dbec4c5c0a8ef80d5e0bc", "name": "PriceFeed", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
