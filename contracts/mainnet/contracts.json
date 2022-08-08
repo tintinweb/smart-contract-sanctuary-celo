@@ -1709,3 +1709,6 @@
 {"address": "0x496ebe554c5eedc0281a8cc782c47e7f9a57cee5", "name": "PriceFallback", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/05/2022"}
 {"address": "0x95ab86773a3e3abbede8b3cb8dd8f64c902d1731", "name": "PriceAdapter", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "101", "settings": "", "date": "08/05/2022"}
 {"address": "0x2a0d7fa85666441cdd9bfe2b4e42f413ab4ce684", "name": "PriceFeed", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "08/05/2022"}
+{"address": "0x7a495c05d009d346c5ec942ec49ac519dd7035d0", "name": "Registry", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
+{"address": "0x7ef2ea0939fa35f3fa78616e3e12246324739203", "name": "StakedTokenVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
+{"address": "0xcaeaa4bcfcded767353d247de53879f39f97b43c", "name": "StakedTokenVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
