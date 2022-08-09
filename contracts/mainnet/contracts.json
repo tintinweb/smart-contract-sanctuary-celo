@@ -1712,3 +1712,7 @@
 {"address": "0x7a495c05d009d346c5ec942ec49ac519dd7035d0", "name": "Registry", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
 {"address": "0x7ef2ea0939fa35f3fa78616e3e12246324739203", "name": "StakedTokenVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
 {"address": "0xcaeaa4bcfcded767353d247de53879f39f97b43c", "name": "StakedTokenVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
+{"address": "0x51d1d8f59cfdf12a5a54892aedb1ee1683a6d8b6", "name": "PToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
+{"address": "0x2a842a5c2bbb45a321babd2f00d9d3e513d7b642", "name": "PoofMintableLendable", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
+{"address": "0xfa3df877f98ac5ecd87456a7accaa948462412f0", "name": "SwapUSDCet", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
+{"address": "0x25b2a20abf9f8d35e61dcfcc4d9afd39874ec881", "name": "StakedTokenVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
