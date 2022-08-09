@@ -1717,3 +1717,8 @@
 {"address": "0xfa3df877f98ac5ecd87456a7accaa948462412f0", "name": "SwapUSDCet", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
 {"address": "0x25b2a20abf9f8d35e61dcfcc4d9afd39874ec881", "name": "StakedTokenVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
 {"address": "0x2a842a5c2bbb45a321babd2f00d9d3e513d7b642", "name": "PoofMintableLendable", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/08/2022"}
+{"address": "0xcbbc37a6b26dbf97293c9d11c058fbbe5a5b9501", "name": "SpiralsStCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
+{"address": "0x6d0faa4af2f22a226e28234d76e561a34ec4d879", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
+{"address": "0x59b827258f47f96ed2ddd2c057c8edf6980cad6c", "name": "SpiralsStCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
+{"address": "0xd8faea9169822384623f2fd7e6a2a68748e33b70", "name": "SpiralsStakingV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
+{"address": "0x9341cee6cfcbe42474df3fedea60386d76cc457c", "name": "SpiralsStCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
