@@ -1722,3 +1722,6 @@
 {"address": "0x59b827258f47f96ed2ddd2c057c8edf6980cad6c", "name": "SpiralsStCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
 {"address": "0xd8faea9169822384623f2fd7e6a2a68748e33b70", "name": "SpiralsStakingV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
 {"address": "0x9341cee6cfcbe42474df3fedea60386d76cc457c", "name": "SpiralsStCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
+{"address": "0x6eb778dc6afc2c0e5faa0bb505bbd9d891afb6ee", "name": "SpiralsCUSDVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/10/2022"}
+{"address": "0xbdddbfec72fa4dca4aa2a2d6bef283037a326e02", "name": "SpiralsCUSDVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
+{"address": "0x6da848842675e724f1416b3918c20b73566db427", "name": "SpiralsCUSDVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/09/2022"}
