@@ -1729,3 +1729,6 @@
 {"address": "0x1987598104a703eaa9473356d74778ee2e694620", "name": "SafeMath", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/10/2022"}
 {"address": "0x6f12db5f94164797d849e111feb992528ab2f24a", "name": "MinimaRouterV1", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/10/2022"}
 {"address": "0xa8a49f8ac62584de32becd1fd5a51ea1f4a5792b", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
+{"address": "0x70312152428f57e277aff76ce001b2253097848d", "name": "NoExternalStrategy", "compiler": "Solidity", "balance": "1.505 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
+{"address": "0x57088aaa21e4428a6df2a1ba1196c7357a5f3193", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
+{"address": "0x02f7846acc3cd79dc48392969664de0952113182", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
