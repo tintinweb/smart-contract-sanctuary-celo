@@ -1728,3 +1728,4 @@
 {"address": "0x132db9d8ee6ff5a397f0f0e2e771388da2ee477c", "name": "SpiralsCUSDVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/10/2022"}
 {"address": "0x1987598104a703eaa9473356d74778ee2e694620", "name": "SafeMath", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/10/2022"}
 {"address": "0x6f12db5f94164797d849e111feb992528ab2f24a", "name": "MinimaRouterV1", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/10/2022"}
+{"address": "0xa8a49f8ac62584de32becd1fd5a51ea1f4a5792b", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
