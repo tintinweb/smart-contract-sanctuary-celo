@@ -1743,3 +1743,8 @@
 {"address": "0xa426973e3ef0d36a2bfa1940b4bac1e2673fdef3", "name": "PlastikPRGV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
 {"address": "0x304c9c8738d86fa76607b53c85b6472e409b8673", "name": "PlastikNFTV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
 {"address": "0x76eb72515dfd37b789726abdfb1b0da8db3ac064", "name": "VerifiedAccounts", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x743ff04f371521382e7ad6cab51c2ea7787ecb12", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "6", "settings": "", "date": "08/15/2022"}
+{"address": "0x53e52737c91f1160950ffd78824c27f9f4e12385", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "7", "settings": "", "date": "08/15/2022"}
+{"address": "0xcd42d0bf88b3d7c99f05c207bb7f88ee0d2f1506", "name": "WithdrawVerifier", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0xd89064e0b68b50c6ac51904a6abab7de88d3b0d3", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "08/15/2022"}
+{"address": "0x754068011bad2686bac50b86d1745c565bd94b01", "name": "SpiralsCUSDVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
