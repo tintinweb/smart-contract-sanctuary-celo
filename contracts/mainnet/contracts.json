@@ -1732,3 +1732,9 @@
 {"address": "0x70312152428f57e277aff76ce001b2253097848d", "name": "NoExternalStrategy", "compiler": "Solidity", "balance": "1.505 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
 {"address": "0x57088aaa21e4428a6df2a1ba1196c7357a5f3193", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
 {"address": "0x02f7846acc3cd79dc48392969664de0952113182", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
+{"address": "0xa55392b58389bb2e129ea607802a7909565cccb4", "name": "SpiralsCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x040d6de6f26eceec2489eb132cb3f11fbe97e33c", "name": "SpiralsCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x75708e5b4eb3a0a22eb5cf6493def88cc99737b6", "name": "SpiralsCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x82f47308f261eb80582e98918c86129e1859f181", "name": "SpiralsCUSDVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0xff3f2c372fe3b6d6c5b0a0b52db6920f04102a9a", "name": "SpiralsCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x82a44e51b88c234fdd41219eddaa55e709745fac", "name": "SpiralsCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
