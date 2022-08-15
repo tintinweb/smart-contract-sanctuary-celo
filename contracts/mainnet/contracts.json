@@ -1738,3 +1738,8 @@
 {"address": "0x82f47308f261eb80582e98918c86129e1859f181", "name": "SpiralsCUSDVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
 {"address": "0xff3f2c372fe3b6d6c5b0a0b52db6920f04102a9a", "name": "SpiralsCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
 {"address": "0x82a44e51b88c234fdd41219eddaa55e709745fac", "name": "SpiralsCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x186fe691b256375c8d12d7351b1991d5e2608e72", "name": "SpiralsCeloVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x7028e5d59083b213fcc86abaf5813f66bcf09ed9", "name": "PlastikRole", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0xa426973e3ef0d36a2bfa1940b4bac1e2673fdef3", "name": "PlastikPRGV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x304c9c8738d86fa76607b53c85b6472e409b8673", "name": "PlastikNFTV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x76eb72515dfd37b789726abdfb1b0da8db3ac064", "name": "VerifiedAccounts", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
