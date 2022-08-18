@@ -1748,3 +1748,9 @@
 {"address": "0xcd42d0bf88b3d7c99f05c207bb7f88ee0d2f1506", "name": "WithdrawVerifier", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
 {"address": "0xd89064e0b68b50c6ac51904a6abab7de88d3b0d3", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "2", "settings": "", "date": "08/15/2022"}
 {"address": "0x754068011bad2686bac50b86d1745c565bd94b01", "name": "SpiralsCUSDVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/15/2022"}
+{"address": "0x0dda45d87751e9b5c8542527eec57d001942898a", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/18/2022"}
+{"address": "0x91817e31488789acbc4403acba8805b2c68e2e88", "name": "PlastikBurner", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/17/2022"}
+{"address": "0xeeddb10353768f8c54320e84f5104ae765b0419f", "name": "AaveStrategy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "08/17/2022"}
+{"address": "0xd72bc584a6470923bc184917c9731849a309660c", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "160", "settings": "", "date": "08/17/2022"}
+{"address": "0xedd8b99bc51280c103bbb04406432ed58cc6e376", "name": "DxMMS", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "10", "settings": "", "date": "08/17/2022"}
+{"address": "0x91d0e3a2bccf036bcf61536d2bdfd47d79946aae", "name": "Shiki", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/16/2022"}
