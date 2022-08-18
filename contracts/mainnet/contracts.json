@@ -1754,3 +1754,4 @@
 {"address": "0xd72bc584a6470923bc184917c9731849a309660c", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "160", "settings": "", "date": "08/17/2022"}
 {"address": "0xedd8b99bc51280c103bbb04406432ed58cc6e376", "name": "DxMMS", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "10", "settings": "", "date": "08/17/2022"}
 {"address": "0x91d0e3a2bccf036bcf61536d2bdfd47d79946aae", "name": "Shiki", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/16/2022"}
+{"address": "0x412534c87468d47ca440adf3a4eac5cdddc37fa6", "name": "ERC20Project", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/18/2022"}
