@@ -1757,3 +1757,4 @@
 {"address": "0x412534c87468d47ca440adf3a4eac5cdddc37fa6", "name": "ERC20Project", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/18/2022"}
 {"address": "0xaf512a6323a4bac7ac06973f0f43aa8c29e52237", "name": "StakedGrantFactoryV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/18/2022"}
 {"address": "0x2df8b14ea0fa35e78b10f232adaf840d86f46387", "name": "StakedGrantFactoryV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/18/2022"}
+{"address": "0xaa57625874f99d945377b1aec19c991005f386a9", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/19/2022"}
