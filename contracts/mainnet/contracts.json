@@ -1759,3 +1759,7 @@
 {"address": "0x2df8b14ea0fa35e78b10f232adaf840d86f46387", "name": "StakedGrantFactoryV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/18/2022"}
 {"address": "0xaa57625874f99d945377b1aec19c991005f386a9", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/19/2022"}
 {"address": "0xbe5c38776e2f06ab83a246b028fdcc082f3c04e5", "name": "ERC20Project", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/20/2022"}
+{"address": "0x17a68574119ec182b4d290fec1e1435ecf1b573e", "name": "PairUniswapV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/21/2022"}
+{"address": "0x926f3d87df76980bc32065450d127ed5e9d5ce31", "name": "PairUniswapV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/21/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
+{"address": "0x78809133bca092df432b192ffe51137bdd0d2ee8", "name": "PairUniswapV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/21/2022"}
+{"address": "0x9f5c71eafefc910edcc26cd796ccd20165cc14b9", "name": "PairUniswapV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/21/2022"}
