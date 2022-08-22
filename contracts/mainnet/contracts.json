@@ -1766,3 +1766,7 @@
 {"address": "0xba6525d55084a1563d14f6ac0216d1a588484fb7", "name": "GoodGhosting", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/21/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
 {"address": "0x926f3d87df76980bc32065450d127ed5e9d5ce31", "name": "PairUniswapV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/21/2022"}
 {"address": "0xba6525d55084a1563d14f6ac0216d1a588484fb7", "name": "GoodGhosting", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/21/2022"}
+{"address": "0x2c116311f91f5da1f5e0563402ac1f0882587dea", "name": "StakedGrantManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
+{"address": "0x8f19093d675da819e0de6ab4e03a2e612f63a599", "name": "StakedGrantManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
+{"address": "0x48412cfdd9241296666a9b28b48272f4d7778c6f", "name": "StakedGrantManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
+{"address": "0x97f3c530c9e3fc7eb0aa84c20b9462a2fcd71dc7", "name": "SpiralsRegistry", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
