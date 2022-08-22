@@ -1770,3 +1770,4 @@
 {"address": "0x8f19093d675da819e0de6ab4e03a2e612f63a599", "name": "StakedGrantManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
 {"address": "0x48412cfdd9241296666a9b28b48272f4d7778c6f", "name": "StakedGrantManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
 {"address": "0x97f3c530c9e3fc7eb0aa84c20b9462a2fcd71dc7", "name": "SpiralsRegistry", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
+{"address": "0x097f74e6dc5248fb5c436e1787a4bffe61f16853", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
