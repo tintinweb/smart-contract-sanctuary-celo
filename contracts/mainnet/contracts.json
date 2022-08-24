@@ -1773,3 +1773,5 @@
 {"address": "0x097f74e6dc5248fb5c436e1787a4bffe61f16853", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
 {"address": "0x852cd2a8f27928bbac3f27b91b8d89bbd9eedcc0", "name": "StrategyStakingTripleRewardLP", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/22/2022"}
 {"address": "0x9ebf4d434139a90d8bb9c6da4e9e2fa909e711a7", "name": "POAVToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/23/2022"}
+{"address": "0xa27a0c40a0a17485c11d1f342a95c946e9523551", "name": "Multicall", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/24/2022"}
+{"address": "0x4925554248994eaa30ae9f4a47738b740fa804f6", "name": "SST", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/24/2022"}
