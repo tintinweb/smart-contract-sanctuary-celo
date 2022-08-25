@@ -1776,3 +1776,4 @@
 {"address": "0xa27a0c40a0a17485c11d1f342a95c946e9523551", "name": "Multicall", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/24/2022"}
 {"address": "0x4925554248994eaa30ae9f4a47738b740fa804f6", "name": "SST", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/24/2022"}
 {"address": "0xf6167dc4c3f39f10a5552e4d6e86d3ab4e9fc564", "name": "CalculateLPValue", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/25/2022"}
+{"address": "0x9826554990f7813046f27f9cde0c5c894afc2133", "name": "MerkleDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
