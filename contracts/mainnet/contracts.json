@@ -1778,3 +1778,4 @@
 {"address": "0xf6167dc4c3f39f10a5552e4d6e86d3ab4e9fc564", "name": "CalculateLPValue", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/25/2022"}
 {"address": "0x9826554990f7813046f27f9cde0c5c894afc2133", "name": "MerkleDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/11/2022"}
 {"address": "0x0564448c22484eeae4b33c75c6f6718fb05c3b8c", "name": "SeedFactory", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/25/2022"}
+{"address": "0xa9383c8e895aa6d9b49404cbbc7b73b1c1de8f20", "name": "InvestorsVestingReserve", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/25/2022"}
