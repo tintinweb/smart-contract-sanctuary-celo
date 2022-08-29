@@ -1782,3 +1782,4 @@
 {"address": "0xde457ed1a713c290c4f8de1de0d0308fc7722937", "name": "MoolaGovernorBravoDelegator", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/26/2022"}
 {"address": "0xbb04d738e013d5336b64352bfb428306b333530b", "name": "DonationMinerImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/26/2022"}
 {"address": "0xf9d414813e189c1b6db7fce7806af42629239e38", "name": "MoolaTimelock", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/29/2022"}
+{"address": "0x7257f454ba183c50a67a55572e04b11e8fb52003", "name": "NFTStoreFrontV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/29/2022"}
