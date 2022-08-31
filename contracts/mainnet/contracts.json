@@ -1784,3 +1784,5 @@
 {"address": "0xf9d414813e189c1b6db7fce7806af42629239e38", "name": "MoolaTimelock", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/29/2022"}
 {"address": "0x7257f454ba183c50a67a55572e04b11e8fb52003", "name": "NFTStoreFrontV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/29/2022"}
 {"address": "0x4714662637361298c8da3035854c7806df0a05cd", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/30/2022"}
+{"address": "0x6b28d74a819e113cdb9067190b2cf463061e38b8", "name": "Basket", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/31/2022"}
+{"address": "0x854e66ef22805060563e2ce54ea19b672c27de60", "name": "LiquidCryptoBridge_v1", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/31/2022"}
