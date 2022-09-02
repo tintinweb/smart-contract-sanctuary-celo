@@ -1788,3 +1788,4 @@
 {"address": "0x854e66ef22805060563e2ce54ea19b672c27de60", "name": "LiquidCryptoBridge_v1", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "08/31/2022"}
 {"address": "0x8f695a0dd47b12a02f9f676187f19c4859ddf23e", "name": "Penguin", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/01/2022"}
 {"address": "0xc69ac075dd5a4e78a6e15831d47aaafae856f57a", "name": "CeloPotion", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/02/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
+{"address": "0xc69ac075dd5a4e78a6e15831d47aaafae856f57a", "name": "CeloPotion", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/02/2022"}
