@@ -1791,3 +1791,5 @@
 {"address": "0xc69ac075dd5a4e78a6e15831d47aaafae856f57a", "name": "CeloPotion", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/02/2022"}
 {"address": "0x84e2979d56e1be192c7b72f1de401a15b9af3c67", "name": "POAVToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/04/2022"}
 {"address": "0xfb59890ec6bb01a2054f397afaef78228508d108", "name": "SeedFactory", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/05/2022"}
+{"address": "0x4669ab0aaff9f7bbb5de3fa9aadcc0c95af32a59", "name": "Basket", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/06/2022"}
+{"address": "0x89a021b0873eeee6ae28eef4ec90e2c4a4d96b5a", "name": "CarbonPathNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/06/2022"}
