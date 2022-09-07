@@ -1793,3 +1793,6 @@
 {"address": "0xfb59890ec6bb01a2054f397afaef78228508d108", "name": "SeedFactory", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/05/2022"}
 {"address": "0x4669ab0aaff9f7bbb5de3fa9aadcc0c95af32a59", "name": "Basket", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/06/2022"}
 {"address": "0x89a021b0873eeee6ae28eef4ec90e2c4a4d96b5a", "name": "CarbonPathNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/06/2022"}
+{"address": "0x627ffe1f36f4c7a8241ed89758a542b7d2412877", "name": "RewardsDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/07/2022"}
+{"address": "0x84b189490dd95d3a33451b465dc1eb49933c275b", "name": "SuperchargeBoosterModule", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/07/2022"}
+{"address": "0x06d15105dbba5f1e3a58b0319ea0f417aacca84b", "name": "RewardsDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/07/2022"}
