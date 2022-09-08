@@ -1798,3 +1798,8 @@
 {"address": "0x06d15105dbba5f1e3a58b0319ea0f417aacca84b", "name": "RewardsDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/07/2022"}
 {"address": "0x71ad09f7a7e98d6d0c88ff0358334c92f33bddd9", "name": "NoExternalStrategy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
 {"address": "0x01539f82a5820a927942154cbe12ae172a935423", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
+{"address": "0xb55c3df43db44492af67743331d88cdc840cbe03", "name": "ETHTimeBondDepository", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
+{"address": "0xd2626b4d07c45f011c813ac4c7a1e9f3c25d43aa", "name": "TimeStaking", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
+{"address": "0xd4df62f4c2a56285efce1e52ccd2b7ccc4df9752", "name": "Distributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
+{"address": "0x9779a9d28862eb20d2aef4dabfb1552ce76e0071", "name": "sGoldenCelo", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
+{"address": "0x768c665e57ee879a61a3253cb319f484489b0f9a", "name": "GoldenCeloERC20Token", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
