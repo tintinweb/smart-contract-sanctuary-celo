@@ -1796,3 +1796,5 @@
 {"address": "0x627ffe1f36f4c7a8241ed89758a542b7d2412877", "name": "RewardsDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/07/2022"}
 {"address": "0x84b189490dd95d3a33451b465dc1eb49933c275b", "name": "SuperchargeBoosterModule", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/07/2022"}
 {"address": "0x06d15105dbba5f1e3a58b0319ea0f417aacca84b", "name": "RewardsDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/07/2022"}
+{"address": "0x71ad09f7a7e98d6d0c88ff0358334c92f33bddd9", "name": "NoExternalStrategy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
+{"address": "0x01539f82a5820a927942154cbe12ae172a935423", "name": "Pool", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
