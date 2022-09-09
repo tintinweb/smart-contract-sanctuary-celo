@@ -1804,3 +1804,5 @@
 {"address": "0x9779a9d28862eb20d2aef4dabfb1552ce76e0071", "name": "sGoldenCelo", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022", "err": "Exception('Unexpected Status Code: 522!=200')"}
 {"address": "0x768c665e57ee879a61a3253cb319f484489b0f9a", "name": "GoldenCeloERC20Token", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
 {"address": "0x9779a9d28862eb20d2aef4dabfb1552ce76e0071", "name": "sGoldenCelo", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/08/2022"}
+{"address": "0x386cc36b30e9a617b8df806227b26e434ff61e9b", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/09/2022"}
+{"address": "0x5e223298bdffc9ea955fc24a9bd60d199296225a", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/09/2022"}
