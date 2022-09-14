@@ -1807,3 +1807,6 @@
 {"address": "0x386cc36b30e9a617b8df806227b26e434ff61e9b", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/09/2022"}
 {"address": "0x5e223298bdffc9ea955fc24a9bd60d199296225a", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/09/2022"}
 {"address": "0x8ab457c4c818153de31bef5aa5d696a7e1ead267", "name": "ERC20Mock", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/09/2022"}
+{"address": "0x4ea15b90e262a66c6a47abbc74d043fba4b65ab9", "name": "MagentaPinguClub", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/13/2022"}
+{"address": "0x89cea15f68950df830dfe3630d635a9ed79478f5", "name": "ERC20NFTBond", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/13/2022"}
+{"address": "0x7fad75b55d0621531e3bb94a1b97392f2d360f4b", "name": "NFTToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/13/2022"}
