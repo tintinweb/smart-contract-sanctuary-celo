@@ -1817,3 +1817,11 @@
 {"address": "0x4a68ef30d695b722808c126db01730095cf1c92b", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
 {"address": "0x2c598fda13d5d7ef009f09065538a7713b03f360", "name": "TestTarget", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
 {"address": "0x312033f8a087234d558f2fbc1cb89f1aabc8d25b", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0x2ed22811ea944c80bceaf2d21c9cd4a1fa953c82", "name": "SpiralsCUSDVaultMigration", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0xc77e5db3168b551c04605f1b593d7ec6d4bdb92e", "name": "SpiralsStakingMigration", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0xe5e66743de8182efe26bb3900a99136e9f6e1d56", "name": "SPRL", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0xc7a129cb49ea019bfbe4b2e109d29cd42650dabd", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0x19688e0ca6ed2e0aa655b799e625e8fa644fc21a", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0xf24129248af311b1f96fe40a152711d0a946d2b6", "name": "wmcUSD", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0x23d1916eb055778d10cc0a1c558b7eeeece815b5", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0x0f1476750245f3a3468b6d908c5759573b414855", "name": "ImpactVaultManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
