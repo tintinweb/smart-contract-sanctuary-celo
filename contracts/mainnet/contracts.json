@@ -1814,3 +1814,6 @@
 {"address": "0xacb7fee5c7de830382b6b95ed482c3f6209e4f68", "name": "KolorLandToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
 {"address": "0x15c8a630d88b1e785a684b6dd9c5906a694ec842", "name": "KolorMarketplace", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
 {"address": "0x4d5807593844ec2538c012dd22eec5d157cb7d20", "name": "KolorLandNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0x4a68ef30d695b722808c126db01730095cf1c92b", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0x2c598fda13d5d7ef009f09065538a7713b03f360", "name": "TestTarget", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0x312033f8a087234d558f2fbc1cb89f1aabc8d25b", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
