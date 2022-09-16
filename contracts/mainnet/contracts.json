@@ -1827,3 +1827,4 @@
 {"address": "0x0f1476750245f3a3468b6d908c5759573b414855", "name": "ImpactVaultManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
 {"address": "0x4527f9b013f15b332990676909da3d52236201af", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
 {"address": "0x5a6bf6ba5fc98577aaece90ea85e7511f0b931a8", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
+{"address": "0x91405c1ac72c691e2be7954188847f7df6271ece", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/16/2022"}
