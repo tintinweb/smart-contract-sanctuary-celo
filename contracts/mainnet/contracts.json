@@ -1828,3 +1828,6 @@
 {"address": "0x4527f9b013f15b332990676909da3d52236201af", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
 {"address": "0x5a6bf6ba5fc98577aaece90ea85e7511f0b931a8", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/15/2022"}
 {"address": "0x91405c1ac72c691e2be7954188847f7df6271ece", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/16/2022"}
+{"address": "0x4e4dcb34c778bbfff9ce8d7c97d7b93055f63837", "name": "NFTKToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
+{"address": "0x7fab9095861b3db2ecd8c9f7539ac9675b548927", "name": "NFTKToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
+{"address": "0x80d2a1efe9a9c0cb25b3e5ae51c693fe0a69228e", "name": "NFTKToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/17/2022"}
