@@ -1831,3 +1831,7 @@
 {"address": "0x4e4dcb34c778bbfff9ce8d7c97d7b93055f63837", "name": "NFTKToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
 {"address": "0x7fab9095861b3db2ecd8c9f7539ac9675b548927", "name": "NFTKToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
 {"address": "0x80d2a1efe9a9c0cb25b3e5ae51c693fe0a69228e", "name": "NFTKToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/17/2022"}
+{"address": "0x0d4a42b2fc30afbf6b6e8f5ce49a659e38a2d112", "name": "ExchangeBRL", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
+{"address": "0xc72cf67b173c3d92564eb653d9bf73392825adce", "name": "Accounts", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
+{"address": "0x32c2dcb7730ed6fc1eac0444a668f38fd7b5dc8d", "name": "ExchangeEUR", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
+{"address": "0x9a470d789bcd392ae4c8f22db8425b5ef139906c", "name": "Exchange", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
