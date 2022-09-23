@@ -1836,3 +1836,6 @@
 {"address": "0x32c2dcb7730ed6fc1eac0444a668f38fd7b5dc8d", "name": "ExchangeEUR", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
 {"address": "0x9a470d789bcd392ae4c8f22db8425b5ef139906c", "name": "Exchange", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/18/2022"}
 {"address": "0x99d3fe1b86110003abdbdf87b9e99bd1f729b3f6", "name": "CelofarmsFactory", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/20/2022"}
+{"address": "0x25271a160cf2e6be20f462bbafb05849bbfce3a9", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/22/2022"}
+{"address": "0xb8d83e9571a7fb4668c6eaa6aa148069e16afb30", "name": "MoolaGovernorBravoDelegate", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/22/2022"}
+{"address": "0xcdfe9be8ae17fb9269668b49b1f57eb26d0fcc87", "name": "UniswapV2Pair", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/22/2022"}
