@@ -1841,3 +1841,4 @@
 {"address": "0xcdfe9be8ae17fb9269668b49b1f57eb26d0fcc87", "name": "UniswapV2Pair", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/22/2022"}
 {"address": "0x6822b2fb224588cd5ee917eaec456ec9e937dd24", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/26/2022"}
 {"address": "0x6f20ec108de884c801f428e5e363e2294e55a517", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/26/2022"}
+{"address": "0x3b708fd2828c0598d75484f0aaaae4baea71fead", "name": "Outbox", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/27/2022"}
