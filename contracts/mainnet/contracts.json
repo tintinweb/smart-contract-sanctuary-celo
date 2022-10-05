@@ -1843,3 +1843,5 @@
 {"address": "0x6f20ec108de884c801f428e5e363e2294e55a517", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/26/2022"}
 {"address": "0x3b708fd2828c0598d75484f0aaaae4baea71fead", "name": "Outbox", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/27/2022"}
 {"address": "0x6e8c30f31af6a5a860acfdd1d312773cfb280b14", "name": "FIRUToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/29/2022"}
+{"address": "0x5f8ce83d2c6dad72ccdb1cdeeb98b4268115c839", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/04/2022"}
+{"address": "0x1f874a270df294044d3a5f7f8a6527bcd4d853cf", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/04/2022"}
