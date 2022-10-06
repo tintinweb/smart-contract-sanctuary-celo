@@ -1845,3 +1845,4 @@
 {"address": "0x6e8c30f31af6a5a860acfdd1d312773cfb280b14", "name": "FIRUToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "09/29/2022"}
 {"address": "0x5f8ce83d2c6dad72ccdb1cdeeb98b4268115c839", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/04/2022"}
 {"address": "0x1f874a270df294044d3a5f7f8a6527bcd4d853cf", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/04/2022"}
+{"address": "0xe3441aa03f37e2c4b6a34eab9852e1c16a7453c2", "name": "PlasticRecoveryProjects", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/06/2022"}
