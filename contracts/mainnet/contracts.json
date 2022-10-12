@@ -1854,3 +1854,4 @@
 {"address": "0x0d158d97473e6d510b70d09aa405cb2d22a3c744", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/11/2022"}
 {"address": "0xb5c607a7cd80ace2658f8307ac9743b12a170df9", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/11/2022"}
 {"address": "0x2fddba0bd9fe5af3c951a169c5cbda1e96f3bb18", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/12/2022"}
+{"address": "0x15ed066ca50f85d8106d27111f599ff357c490ef", "name": "TDFPrebuild", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/12/2022"}
