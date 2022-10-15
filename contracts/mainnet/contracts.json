@@ -1855,3 +1855,8 @@
 {"address": "0xb5c607a7cd80ace2658f8307ac9743b12a170df9", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/11/2022"}
 {"address": "0x2fddba0bd9fe5af3c951a169c5cbda1e96f3bb18", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/12/2022"}
 {"address": "0x15ed066ca50f85d8106d27111f599ff357c490ef", "name": "TDFPrebuild", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/12/2022"}
+{"address": "0x9ea5e9b9b48a72325d59b3eba147f42b1b14bf78", "name": "OdisPayments", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/14/2022"}
+{"address": "0xae6b29f31b96e61dddc792f45fda4e4f0356d0cb", "name": "OdisPaymentsProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "10/14/2022"}
+{"address": "0x76a4daac43912a443f098d413ded2cb7a153ea85", "name": "FederatedAttestations", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/14/2022"}
+{"address": "0x0ad5b1d0c25ecf6266dd951403723b2687d6aff2", "name": "FederatedAttestationsProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "10/14/2022"}
+{"address": "0xcc4e6cabe88ebb7fccb40d862bf1c3a89f88e835", "name": "Escrow", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/14/2022"}
