@@ -1867,3 +1867,6 @@
 {"address": "0xad13c2e9f87d8216064a27d8eba485b0752d1940", "name": "CyberBoxCollection", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/26/2022"}
 {"address": "0xb75a0a10868dce6e574c3471fc0146b816a41ce6", "name": "CyberBoxNFTBox", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/26/2022"}
 {"address": "0xea135c8de3993b23437610b57cd60ac857de18d3", "name": "CyberBoxRandomNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/26/2022"}
+{"address": "0xf4a5fd81a539c0aa11f6c6592fd4e3bd02fbd420", "name": "KolorLandToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "10/27/2022"}
+{"address": "0x4e3e9ac6b6ad04f29e47cedda5067d12473108a7", "name": "KolorMarketplace", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "8", "settings": "", "date": "10/27/2022"}
+{"address": "0x86178ff5c54d4156936cdda87f9d0358d7e7c98e", "name": "KolorLandNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "3", "settings": "", "date": "10/27/2022"}
