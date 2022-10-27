@@ -1861,3 +1861,9 @@
 {"address": "0x0ad5b1d0c25ecf6266dd951403723b2687d6aff2", "name": "FederatedAttestationsProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "1", "settings": "", "date": "10/14/2022"}
 {"address": "0xcc4e6cabe88ebb7fccb40d862bf1c3a89f88e835", "name": "Escrow", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/14/2022"}
 {"address": "0xf93781122043afc1d1c7a90f2db93bd21d8229f1", "name": "IScamPeople", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/17/2022"}
+{"address": "0x1767b3cc1c771abe2ab88f95ae17881cc2e21976", "name": "CyberBoxCollectionManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/26/2022"}
+{"address": "0x52d9f580945e74f604cce57016c0d1fd36820269", "name": "RandomNFTMarket", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/26/2022"}
+{"address": "0x01e833861eb2ed9e8f4f88e3feee555d8a993640", "name": "RandomMarketPlaceV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/26/2022"}
+{"address": "0xad13c2e9f87d8216064a27d8eba485b0752d1940", "name": "CyberBoxCollection", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/26/2022"}
+{"address": "0xb75a0a10868dce6e574c3471fc0146b816a41ce6", "name": "CyberBoxNFTBox", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/26/2022"}
+{"address": "0xea135c8de3993b23437610b57cd60ac857de18d3", "name": "CyberBoxRandomNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/26/2022"}
