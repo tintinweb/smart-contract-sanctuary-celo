@@ -1872,3 +1872,13 @@
 {"address": "0x86178ff5c54d4156936cdda87f9d0358d7e7c98e", "name": "KolorLandNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "3", "settings": "", "date": "10/27/2022"}
 {"address": "0xb574ddc2d6c717047852b774f3549a9175fa5841", "name": "SpiralsCUSDImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/27/2022"}
 {"address": "0x2b2a31da43e422fb62d5c426d250988eb137ca84", "name": "SpiralsCeloImpactVault", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "10/27/2022"}
+{"address": "0xd96a74081440c28e9a3c09a3256d6e0454c52e41", "name": "wmcUSD", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0x8ba9ce201fe7808cd7952617af868ebb5740e9e9", "name": "Federation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0x854724cf06b047a8c0116c702472673864e508c4", "name": "NFTStoreFrontV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0x49d9421864d462fc5acf1feef94ef00a0e692b13", "name": "NFTStoreFrontV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0xbe3d1dd4b487c1436e319a4af55f43d69559e54d", "name": "PlastikNFTMulV3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0x90cd3bf6bd7f2f2260d676ad5c8ff2475cbadcab", "name": "PlastikERC1155V1", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0x3a6ddbd04a65262cbf6733fe96041574a037c9f3", "name": "PlastikCrypto", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0x4311ba6e4584f1b5ce5237f23e80a0360ba9763e", "name": "PlastikRoyaltyCal", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0x389dcc5a90523ad23d5e846f067fd461668b1779", "name": "PlastikRoleV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0x33c37b39f226823d23bfe74aa538948c0e999293", "name": "PlastikCryptoV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
