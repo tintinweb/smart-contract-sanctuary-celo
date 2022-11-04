@@ -1882,3 +1882,4 @@
 {"address": "0x4311ba6e4584f1b5ce5237f23e80a0360ba9763e", "name": "PlastikRoyaltyCal", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
 {"address": "0x389dcc5a90523ad23d5e846f067fd461668b1779", "name": "PlastikRoleV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
 {"address": "0x33c37b39f226823d23bfe74aa538948c0e999293", "name": "PlastikCryptoV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/03/2022"}
+{"address": "0xe55db8b5af361bea139efe952540e29f81de32cc", "name": "CyberBoxCollectionManager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/04/2022"}
