@@ -1891,3 +1891,4 @@
 {"address": "0x0ba8f8e3981bb255d859aaa543424e96cb34a9cd", "name": "xcUSD", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/06/2022"}
 {"address": "0x6072e3af211c37f3c5de78612224fdfc3a77f2b2", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/06/2022"}
 {"address": "0xcdefddc0cab93bbfed85e4e26aecd6091194960a", "name": "Manager", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/07/2022"}
+{"address": "0xa4a8e345e1a88efc9164014bb2cebd4c2f98e986", "name": "CyberBoxCertNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/11/2022"}
