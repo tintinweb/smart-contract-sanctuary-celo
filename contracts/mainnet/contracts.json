@@ -1894,3 +1894,4 @@
 {"address": "0xa4a8e345e1a88efc9164014bb2cebd4c2f98e986", "name": "CyberBoxCertNFT", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/11/2022"}
 {"address": "0xca11bde05977b3631167028862be2a173976ca11", "name": "Multicall3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/11/2022"}
 {"address": "0xf4fb62cadc46df00ae81bdf4f5b2560f712dace2", "name": "WitnetPriceFeed", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/12/2022"}
+{"address": "0x148f29f6f74c41009ed81620dca160786d7d55b5", "name": "MyToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/12/2022"}
