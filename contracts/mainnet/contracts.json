@@ -1898,3 +1898,4 @@
 {"address": "0x6ccef0d7ec1e2530af733a00b800e5cf41cb3d62", "name": "SVGRenderer", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
 {"address": "0x72b957fb8f6f25ca6d0a49b0eb49771ee16757e6", "name": "AirdropV2Implementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
 {"address": "0x482e748d452e6ecd86d58e597b673c5e653dabe9", "name": "AirdropV2Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
+{"address": "0x50599e64f1e0a28ea833587efa1676810b31ebb2", "name": "NounsAuctionHouse", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
