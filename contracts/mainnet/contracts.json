@@ -1895,3 +1895,6 @@
 {"address": "0xca11bde05977b3631167028862be2a173976ca11", "name": "Multicall3", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/11/2022"}
 {"address": "0xf4fb62cadc46df00ae81bdf4f5b2560f712dace2", "name": "WitnetPriceFeed", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/12/2022"}
 {"address": "0x148f29f6f74c41009ed81620dca160786d7d55b5", "name": "MyToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/12/2022"}
+{"address": "0x6ccef0d7ec1e2530af733a00b800e5cf41cb3d62", "name": "SVGRenderer", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
+{"address": "0x72b957fb8f6f25ca6d0a49b0eb49771ee16757e6", "name": "AirdropV2Implementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
+{"address": "0x482e748d452e6ecd86d58e597b673c5e653dabe9", "name": "AirdropV2Proxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
