@@ -1901,3 +1901,4 @@
 {"address": "0x50599e64f1e0a28ea833587efa1676810b31ebb2", "name": "NounsAuctionHouse", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
 {"address": "0xa55d09565746a70d713cbe3e4cd882a66960f401", "name": "NounsDAOProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
 {"address": "0x593f0a1112d5e0a1272d4cc12f7dbd41a1101ae8", "name": "MerkleDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0x5388be2a573dd7501af207a30177bee40ffcf333", "name": "NounsDescriptorV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
