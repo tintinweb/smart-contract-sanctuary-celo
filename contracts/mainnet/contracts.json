@@ -1902,3 +1902,7 @@
 {"address": "0xa55d09565746a70d713cbe3e4cd882a66960f401", "name": "NounsDAOProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/15/2022"}
 {"address": "0x593f0a1112d5e0a1272d4cc12f7dbd41a1101ae8", "name": "MerkleDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
 {"address": "0x5388be2a573dd7501af207a30177bee40ffcf333", "name": "NounsDescriptorV2", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0xb015096256b4961899a408febccaa7b39411aeaa", "name": "NounsAuctionHouseProxyAdmin", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0x16e82274586d821feed2f85bf3b36a2baf21f43c", "name": "NounsAuctionHouseProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0x4acf377d1bd2c0004f55bdf4012dfb0d09616b61", "name": "AuthenticatedProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0x473bd98fc874fa0a483ae9f4c9364396f55ae570", "name": "WyvernProxyRegistry", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
