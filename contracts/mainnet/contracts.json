@@ -1906,3 +1906,12 @@
 {"address": "0x16e82274586d821feed2f85bf3b36a2baf21f43c", "name": "NounsAuctionHouseProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
 {"address": "0x4acf377d1bd2c0004f55bdf4012dfb0d09616b61", "name": "AuthenticatedProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
 {"address": "0x473bd98fc874fa0a483ae9f4c9364396f55ae570", "name": "WyvernProxyRegistry", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0x000000000022d473030f116ddee9f6b43ac78ba3", "name": "Permit2", "compiler": "Solidity", "balance": "0 CELO", "txcount": "0", "settings": "", "date": "11/17/2022"}
+{"address": "0x54a98062035d07517029b8b0d8d471b568e075f9", "name": "NounsAuctionHouse", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0x971df8629b970cc0292aa88b8e0a90b59ed01397", "name": "NounsToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0xbe2e36a243dc4ae347598497c900da5aeb52c8bc", "name": "NounsToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0xbfd3f3113c892f9362223833bbbe3efc32b413db", "name": "NounsToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0xfe1ec619f88f17132587eaa7e547d5261282b4ec", "name": "NounsToken", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0x1a6c3f351ee43d1daa44dcfaac638961a5315cbd", "name": "NounsAuctionHouse", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0x1c5fab800e840d963d5deaf4345e9767d9c97e74", "name": "NounsAuctionHouseProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0x1f0a5d5e52958a6efe4d48f592ec59d00823a8cb", "name": "NounsAuctionHouse", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
