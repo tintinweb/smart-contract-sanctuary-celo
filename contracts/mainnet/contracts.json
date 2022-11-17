@@ -1915,3 +1915,4 @@
 {"address": "0x1a6c3f351ee43d1daa44dcfaac638961a5315cbd", "name": "NounsAuctionHouse", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
 {"address": "0x1c5fab800e840d963d5deaf4345e9767d9c97e74", "name": "NounsAuctionHouseProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
 {"address": "0x1f0a5d5e52958a6efe4d48f592ec59d00823a8cb", "name": "NounsAuctionHouse", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/16/2022"}
+{"address": "0xd1508a235aa8b23e8fdc36643eaecb2ba6a0ae7d", "name": "NounsDAOExecutor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/17/2022"}
