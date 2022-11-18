@@ -1918,3 +1918,4 @@
 {"address": "0xd1508a235aa8b23e8fdc36643eaecb2ba6a0ae7d", "name": "NounsDAOExecutor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/17/2022"}
 {"address": "0x2819b2c3a0dbdc452e8e333754bd25d3435fc5a1", "name": "CommunityImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/18/2022"}
 {"address": "0x14efce45a72a8574577403305acf0739c8fb5bcf", "name": "CommunityAdminImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/18/2022"}
+{"address": "0x19f9c106b02c677e8570723b7c7425c3b4df8c39", "name": "MerkleDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/18/2022"}
