@@ -1919,3 +1919,6 @@
 {"address": "0x2819b2c3a0dbdc452e8e333754bd25d3435fc5a1", "name": "CommunityImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/18/2022"}
 {"address": "0x14efce45a72a8574577403305acf0739c8fb5bcf", "name": "CommunityAdminImplementation", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/18/2022"}
 {"address": "0x19f9c106b02c677e8570723b7c7425c3b4df8c39", "name": "MerkleDistributor", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/18/2022"}
+{"address": "0x3fedab40aaa8ce3fb56826ad07e5cff5f937b7a4", "name": "PaggloAmbec", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/21/2022"}
+{"address": "0xb37bf97a42eee6b995732530595e3d16639d9977", "name": "Payroll", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/21/2022"}
+{"address": "0x040007b1804ad78a97f541bebed377dcb60e4138", "name": "TransparentUpgradeableProxy", "compiler": "Solidity", "balance": "0.000 CELO", "txcount": "0", "settings": "", "date": "11/21/2022"}
